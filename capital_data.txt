@@ -1,0 +1,9 @@
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+USA/New York
+Pakistan/Islamabad
+Bangladesh/daka
+Nepal/katmandu
